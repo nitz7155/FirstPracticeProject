@@ -1,4 +1,4 @@
-## FirstPracticeProject
+# FirstPracticeProject
 - Board Practice
 # Tech Stack
 - SpringBoot, PostgreSQL

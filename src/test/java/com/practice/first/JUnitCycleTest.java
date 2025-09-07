@@ -37,4 +37,5 @@ public class JUnitCycleTest {
     public void afterEach() {
         System.out.println("@AfterEach");
     }
+
 }

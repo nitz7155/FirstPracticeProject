@@ -1,5 +1,5 @@
 # FirstPracticeProject
-- Board Practice
+- Spring Boot Practice
 - Built with SpringBoot, PostgreSQL
 # Dependencies
 - Lombok
